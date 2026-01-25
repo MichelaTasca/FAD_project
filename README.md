@@ -1,4 +1,3 @@
-# FAD_project
 # Analisi dei Dati e Predizione degli Outcome - Austin Animal Center
 
 Questo progetto presenta un'analisi esplorativa e statistica approfondita (EDA) sui dati relativi agli esiti (outcome) degli animali del rifugio **Austin Animal Center**. L'obiettivo è comprendere quali fattori influenzino l'adozione e prevedere il destino degli animali ospitati tramite modelli di Machine Learning.
